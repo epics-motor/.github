@@ -37,7 +37,6 @@ Modules Build Status:
 [![motorScriptMotor](https://github.com/epics-motor/motorScriptMotor/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-motor/motorScriptMotor/actions/workflows/ci-scripts-build.yml)
 [![motorSmarAct](https://github.com/epics-motor/motorSmarAct/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-motor/motorSmarAct/actions/workflows/ci-scripts-build.yml)
 [![motorSmartMotor](https://github.com/epics-motor/motorSmartMotor/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-motor/motorSmartMotor/actions/workflows/ci-scripts-build.yml)
-<!--- [![motorSymetrie](https://github.com/epics-motor/motorSymetrie/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-motor/motorSymetrie/actions/workflows/ci-scripts-build.yml) --->
 [![motorThorLabs](https://github.com/epics-motor/motorThorLabs/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-motor/motorThorLabs/actions/workflows/ci-scripts-build.yml)
 [![motorVMC](https://github.com/epics-motor/motorVMC/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-motor/motorVMC/actions/workflows/ci-scripts-build.yml)
-
+<!--- [![motorSymetrie](https://github.com/epics-motor/motorSymetrie/actions/workflows/ci-scripts-build.yml/badge.svg)](https://github.com/epics-motor/motorSymetrie/actions/workflows/ci-scripts-build.yml) --->
